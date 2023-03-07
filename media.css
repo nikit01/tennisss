@@ -129,28 +129,28 @@
         padding: 215px 186px 32px 32px;
         width: 385px;
         height: 270px;
-        background-image: url(/img/img--coffee.svg);
+        background-image: url(img/img--coffee.svg);
         background-repeat: no-repeat;
     }
     .coffee--rivals--media{
         padding: 215px 186px 32px 32px;;
         width: 385px;
         height: 270px;
-        background-image: url(/img/img--rivals.svg);
+        background-image: url(img/img--rivals.svg);
         background-repeat: no-repeat;
     }
     .coffee--court--selection--media{
         padding: 215px 186px 32px 32px;
         width: 385px;
         height: 270px;
-        background-image: url(/img/img--court--selection.svg);
+        background-image: url(img/img--court--selection.svg);
         background-repeat: no-repeat;
     }
     .coffee--court--media{
         padding: 215px 186px 32px 32px;
         width: 385px;
         height: 270px;
-        background-image: url(/img/img--cort.svg);
+        background-image: url(img/img--cort.svg);
         background-repeat: no-repeat;
     }
     .services--footer--text{
